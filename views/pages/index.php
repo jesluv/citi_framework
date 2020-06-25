@@ -1,2 +1,7 @@
-<h1 align="center"> Welcome to Citi Basic PHP Framework </h1>
-<p align="center">These is Home Controller</p>
+<div class="jumbotron jumbotron-fluid">
+    <div class="container" align="center">
+        <h1 class="display-4">Welcome To</h1>
+        <h1 class="display-5">Citi-Framework</h1>
+        <p class="lead">Basic MVC Structure for New PHP Developers</p>
+    </div>
+</div>
