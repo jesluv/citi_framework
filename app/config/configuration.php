@@ -44,8 +44,9 @@ define('VERSION', '1.0'); //System version
 #			htaccess!							 #
 ##################################################
 
-define('URL', 'http://localhost/citi/');
+define('URL', 'http://localhost/citi/app/');
 
+define('GUIDE', 'http://localhost/citi/guide.html');
 ########################################
 # DEFAULT CONTROLLERS FOR EACH PAGE    #
 ########################################
