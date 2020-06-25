@@ -18,6 +18,8 @@ define('DB_PASSWORD', '_YOUR PASSWORD_'); //Databse Password
 
 define('DB_HOST', '_YOUR HOST NAME_'); //Databse Host
 
+define('VERSION', '1.0'); //System version
+
 ##################################################
 #  Folder configuration GLOBAL LINKS             #
 ##################################################
@@ -68,7 +70,7 @@ define('ENCRYPTION_ALGORITHM','AES-256-CBC'); // encryption Algorithm
 #			not be larger than either of those!	 #
 ##################################################
 
-define('USER_IMAGES', 'pictures'); //product images path
+define('USER_IMAGES', 'pictures'); //pictures path
 
 
 

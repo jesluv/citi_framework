@@ -1,3 +1,8 @@
 body{
     background-color:gainsboro;
 }
+.footer{
+    background-color: rgb(34, 34, 34);
+    padding: 15px;
+    color: #fff;
+}
